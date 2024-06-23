@@ -1,7 +1,7 @@
 {
   "name": "react-essentials-start",
   "version": "0.0.0",
-  "homepage": "https://Niwani.github.io/Portfolio-ReactJS",
+  "homepage": "https://niwani.github.io/Portfolio-ReactJS/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
